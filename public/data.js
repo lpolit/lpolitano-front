@@ -1,5 +1,5 @@
 const Data = (() => {
-  let serverName = "http://localhost:3000"; 
+  let serverName = "https://localhost:3000"; 
   return {
     getServerName: () => serverName,
   };
